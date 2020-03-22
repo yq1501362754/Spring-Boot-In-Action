@@ -3,14 +3,6 @@
 
 本项目内容为 《Spring Boot实战合集》系列文章，并持续保持更新。如您觉得该项目对您有用，欢迎点击右上方的 Star 按钮，给予支持！！
 
-- 个人博客：https://www.codesheep.cn
-- GitHub：https://github.com/hansonwang99/Spring-Boot-In-Action
-
-另外所有内容都在我的个人公众号 CodeSheep 最先推出，大家可以关注一下，可 **长按** 或 **扫描** 下面的 **小心心** 来获取更多 **务实、能看懂、可复现的** 原创文 ↓↓↓
-
-![CodeSheep · 程序羊](https://user-gold-cdn.xitu.io/2018/8/9/1651c0ef66e4923f?w=270&h=270&f=png&s=102007)
-
----
 
 ---
 
@@ -75,11 +67,6 @@
 - [Spring Boot应用部署于外置Tomcat容器](http://www.codesheep.cn/2018/06/05/SpringBoot%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2%E4%BA%8E%E5%A4%96%E7%BD%AETomcat%E5%AE%B9%E5%99%A8/)
 
 - [初探 Kotlin + Spring Boot联合编程](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/kotlin_with_springbt)
-
-
----
-
-# 【持续更新中......】
 
 
 
